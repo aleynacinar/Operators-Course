@@ -1,0 +1,15 @@
+D:\Developer Projects\Pratikler\operatorler\bin\Debug\net6.0\operatorler.exe
+D:\Developer Projects\Pratikler\operatorler\bin\Debug\net6.0\operatorler.deps.json
+D:\Developer Projects\Pratikler\operatorler\bin\Debug\net6.0\operatorler.runtimeconfig.json
+D:\Developer Projects\Pratikler\operatorler\bin\Debug\net6.0\operatorler.dll
+D:\Developer Projects\Pratikler\operatorler\bin\Debug\net6.0\operatorler.pdb
+D:\Developer Projects\Pratikler\operatorler\obj\Debug\net6.0\operatorler.csproj.AssemblyReference.cache
+D:\Developer Projects\Pratikler\operatorler\obj\Debug\net6.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer Projects\Pratikler\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfoInputs.cache
+D:\Developer Projects\Pratikler\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfo.cs
+D:\Developer Projects\Pratikler\operatorler\obj\Debug\net6.0\operatorler.csproj.CoreCompileInputs.cache
+D:\Developer Projects\Pratikler\operatorler\obj\Debug\net6.0\operatorler.dll
+D:\Developer Projects\Pratikler\operatorler\obj\Debug\net6.0\refint\operatorler.dll
+D:\Developer Projects\Pratikler\operatorler\obj\Debug\net6.0\operatorler.pdb
+D:\Developer Projects\Pratikler\operatorler\obj\Debug\net6.0\operatorler.genruntimeconfig.cache
+D:\Developer Projects\Pratikler\operatorler\obj\Debug\net6.0\ref\operatorler.dll
